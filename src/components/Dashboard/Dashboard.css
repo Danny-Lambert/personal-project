@@ -1,0 +1,16 @@
+.dashboard {
+    color: black;
+    margin-right: 50%;
+    background-image: url("../../images/daisy1.png") no-repeat center center fixed;
+    /* background-color: grey; 
+     /* background-size: auto 100%; */
+    /* background-repeat: no-repeat;
+    color: black;
+    background-position: left top;
+    height: 100%;
+    width: 100%; */
+} 
+.h1{
+    color: pink;
+    margin:50%;
+}
